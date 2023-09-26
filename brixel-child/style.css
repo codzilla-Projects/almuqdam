@@ -1,0 +1,49 @@
+/*
+ Theme Name:   Brixel Child
+ Theme URI:    http://themes.radiantthemes.com/brixel/
+ Description:  Brixel Child Theme
+ Author:       RadiantThemes.com
+ Author URI:   http://radiantthemes.com/
+ Template:     brixel
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+ Text Domain:  brixel-child
+*/
+
+.rt-portfolio-box.element-six .rt-portfolio-box-item > .holder > .pic > .data .category {
+    color: #c49a8d!important;
+}
+.radiant-contact-form .form-row input[type=submit]{
+	color: #ffffff!important;
+}
+.radiantthemes-button > .radiantthemes-button-main, .radiant-contact-form .form-row input[type=submit], .radiant-contact-form .form-row input[type=button], .radiant-contact-form .form-row button[type=submit], .post.style-two .post-read-more .btn, .post.style-three .entry-main .post-read-more .btn, .woocommerce #respond input#submit, .woocommerce form .form-row input.button, .woocommerce .return-to-shop .button, .widget-area > .widget.widget_price_filter .button, .rt-fancy-text-box.element-one > .holder > .more > a, .rt-fancy-text-box.element-two > .holder > .more > a, .rt-fancy-text-box.element-three > .holder > .more > a, .rt-fancy-text-box.element-four > .holder > .more > a, .team.element-six .team-item > .holder .data .btn, .rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .title .btn, .rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .data .btn, .rt-portfolio-box.element-two .rt-portfolio-box-item > .holder > .pic > .title .btn, .rt-portfolio-box.element-two .rt-portfolio-box-item > .holder > .pic > .data .btn, .rt-portfolio-box.element-four .rt-portfolio-box-item > .holder > .pic > .data .btn {
+    background-color: #9b644a!important;
+}
+.radiant-contact-form .form-row input[type=submit]:hover{
+	    background-color: #010101!important;
+}
+.post.style-one .category-list > a {
+    background-color: #c49a8d!important;
+    border: 1px #c49a8d solid!important;
+}
+.post.style-one .category-list > a:hover {
+    background-color: transparent!important;
+    color: #c49a8d!important;
+}
+.ha_white_text{
+	color:#ffffff;
+}
+.rt-menu.element-two ul.menu li:before {
+    background-color: #9b6449!important;
+}
+.rt-menu.element-two ul.menu li {
+    background-color: #efeaea!important;
+}
+.radiant-contact-form.rt8a440d785c80a2e .form-row input[type=text]:focus {
+    border-top: 1px solid #b99381!important;
+    border-right: 1px solid #b99381!important;
+    border-bottom: 1px solid #b99381!important;
+    border-left: 1px solid #b99381!important;
+}
